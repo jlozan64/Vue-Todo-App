@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen w-widht bg-purple-300 flex flex-col justify-center items-center">
+  <div class="h-screen w-widht bg-purple-700 flex flex-col justify-center items-center">
     <div class="header">
       <h1 class="text-4xl">🚀 Janeth's New Todo App With Tailwind and Vue 🚀</h1>
       <div class="form flex">
